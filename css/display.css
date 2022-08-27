@@ -1,0 +1,141 @@
+
+div {
+	vertical-align:middle;
+}
+
+.grandcontainer {
+	display:table;
+	height:100%;
+	margin:0 auto;
+}
+
+.parentcontainer{
+	display:table-cell;
+	vertical-align:middle;
+}
+h1{
+	margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-size: 40px;
+	text-align:center;
+	line-height: 40px;
+	font-family: 'Orienta', sans-serif;
+}
+
+h2{
+	margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-size: 25px;
+	text-align:center;
+	line-height: 40px;
+	font-family: 'Orienta', sans-serif;
+}
+
+
+
+select {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.submitbtn {
+	border-radius: 8px;
+	background-color: #333;
+	font-size: 16px;
+	padding: 12px 28px;
+	color:white;
+}
+
+.submitbtn:hover {
+  background-color: #FF6A00;
+  color: white;
+}
+#mytable {  
+  border: 1px solid #ddd;
+  text-align: left;
+  font-size:15px;
+  font-family: 'Orienta', sans-serif;
+}
+
+.td{  
+  border: 1px solid #ddd;
+  text-align: left;
+  font-size:15px;
+  font-family: 'Orienta', sans-serif;
+  padding: 10px;
+}
+
+.th {  
+  border: 1px solid #ddd;
+  text-align: left;
+  font-size:15px;
+  font-family: 'Orienta', sans-serif;
+  padding: 10px;
+}
+
+#mytable {
+  border-collapse: collapse;
+  width: 70%;
+}
+
+
+p {
+	margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 20px;
+	font-family: 'Orienta', sans-serif;
+}
+
+table {  
+  text-align: left;
+  font-size:15px;
+  font-family: 'Orienta', sans-serif;
+  width: 25%;
+}
+
+.table {  
+  text-align: left;
+  font-size:15px;
+  font-family: 'Orienta', sans-serif;
+  width: 20%;
+}
+
+td{  
+ 
+  text-align: left;
+  font-size:15px;
+  font-family: 'Orienta', sans-serif;
+  padding: 7px;
+}
+
+
+.back {
+  background-color: #333;
+  color: white;
+  text-align:center;
+  margin-left: 650px;
+  margin-top:24px;
+}
+
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  
+}
+
+a:hover {
+  background-color: #FF6A00;
+  color: black;
+}
+
+

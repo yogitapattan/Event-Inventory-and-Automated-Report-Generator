@@ -1,0 +1,7 @@
+1RV16IS063,Yogita,ISE,6,yogita@fgh.com,9876543210,hindu,200
+1RV16IS068,Likitha,ISE,6,pvsailiki@fgh.com,8907654321,hindu,300
+1RV16IS030,Nagashreyas,ISE,6,nagashreyas@fgh.com,8907658909,hindu,200
+1RV16IS011,Bhoomika,ISE,6,bhoomika@fgh.com,8888854321,hindu,400
+1RV16EC045,Sanjana,ESE,6,sanj@fgh.com,9980654321,hindu,200
+1RV16IS036,Preetham,ISE,6,preetham@fgh.com,8789654321,hindu,200
+1RV16EC040,Sanj,EcE,6,sanj@fgh.com,9980654321,hindu,200

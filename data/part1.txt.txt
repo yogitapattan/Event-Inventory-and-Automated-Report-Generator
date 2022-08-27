@@ -1,0 +1,2 @@
+1RV16IS063,Yogita,ISE,6,abc@fgh.com,1234567890,hindu,200
+1RV16IS068,PV Sai Likitha,ISE,6,asd@fgh.com,8907654321,hindu,300
